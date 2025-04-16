@@ -14,5 +14,5 @@ https://github.com/MarcosAlonso05/Turing#
 ## Estructura del Proyecto
 
 - **matriz** → Implementa los metodos para crear una matriz, imprimirla y hacer su traspuesta.
--**main** → Utiliza el código de prueba otorgado por el profesor.
+- **main** → Utiliza el código de prueba otorgado por el profesor.
   
