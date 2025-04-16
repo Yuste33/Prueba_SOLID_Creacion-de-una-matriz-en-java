@@ -7,7 +7,7 @@ Este proyecto implementa varios **Patrones Creacionales** en Java: **Abstract Fa
 ## Enlace al repositorio
 
 ```
-https://github.com/MarcosAlonso05/Turing#
+git@github.com:Yuste33/Prueba_SOLID_Creacion-de-una-matriz-en-java.git
 ```
 
 ---
