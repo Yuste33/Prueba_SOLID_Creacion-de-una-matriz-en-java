@@ -7,7 +7,7 @@ Este proyecto implementa varios **Patrones Creacionales** en Java: **Abstract Fa
 ## Enlace al repositorio
 
 ```
-git@github.com:Yuste33/Prueba_SOLID_Creacion-de-una-matriz-en-java.git
+https://github.com/Yuste33/Prueba_SOLID_Creacion-de-una-matriz-en-java
 ```
 
 ---
